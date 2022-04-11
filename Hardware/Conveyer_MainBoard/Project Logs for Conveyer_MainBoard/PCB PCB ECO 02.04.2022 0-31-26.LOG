@@ -1,0 +1,14 @@
+Change component parameters: Designator = "FU1" ("FU1"); Footprint = "FUSE: 1812"; UniqueID = "\EKNPSFGR" ("\EKNPSFGR")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=01110501Z"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxCurrent"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "0468001.NR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeFuse"; Value = "Предохранитель SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Предохранитель SMD, 250VAC, 1A, 1206, "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet_3 Member=Component J?
+Added Member To Class: ClassName=Sheet_3 Member=Component J?
+Added Member To Class: ClassName=Sheet_3 Member=Component X? Terminal connector, 6pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_3 Member=Component X? Terminal connector, 6pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_3 Member=Component X? Terminal connector, 6pin, 3.5mm, 300VAC, 10A

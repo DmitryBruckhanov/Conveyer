@@ -1,0 +1,12 @@
+Added Component: Designator=D?(24-TSSOP-PAD)
+Add component (AddParameter): Name = "Производитель"; Value = "UMW(Youtai Semiconductor Co., Ltd.)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Battery Charger "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "SOIC 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "A4982"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Step_Driver Member=Component D? A4982
+Added Member To Class: ClassName=Input Member=Component X6 Terminal connector, 3pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Input Member=Component X7 Клеммник, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Input Member=Component X8 Terminal connector, 3pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Input Member=Component X9 Terminal connector, 3pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Input Member=Component X11 Terminal connector, 3pin, 3.5mm, 300VAC, 10A

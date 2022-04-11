@@ -1,0 +1,31 @@
+Added Component: Designator=BF1(BUZ: AI-1223-TWT-3V-2-R)
+Add component (AddParameter): Name = "CurrentMax"; Value = "80mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "2.73 kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=AT-0927-TT-6-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PUI Audio"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "AT-0927-TT-6-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-20...+70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeBuzzer"; Value = "DIP switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "DIP switch, 2.73 kHz, 3VDC, 80mA, -20...+70°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "3VDC"; VariantName = "[No Variations]"
+Added Component: Designator=VT1(SOT23)
+Add component (AddParameter): Name = "CurrentCE"; Value = "100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentGain"; Value = "420"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/on-semiconductor/BC847CLT1G/BC847CLT1GOSCT-ND/917836"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MaxPower"; Value = "300mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BC847"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeTransistor"; Value = "NPN transistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageCE"; Value = "45V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageSaturation"; Value = "0.6V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=BF1-1
+Added Pin To Net: NetName=NetBF1_2 Pin=BF1-2
+Added Pin To Net: NetName=NetR3_1 Pin=VT1-1
+Added Pin To Net: NetName=NetR2_2 Pin=VT1-2
+Added Pin To Net: NetName=GND Pin=VT1-3
+Added Member To Class: ClassName=Sheet_1 Member=Component BF1 DIP switch, 2.73 kHz, 3VDC, 80mA, -20...+70°C
+Added Member To Class: ClassName=Sheet_1 Member=Component VT1 NPN transistor, 45V, 100mA, 100MHz, 300mW, 0.6V, 420, SOT-23, -55...+125°C

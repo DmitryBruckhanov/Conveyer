@@ -1,0 +1,19 @@
+Added Component: Designator=C?(CAP: SMD D6.3A6.6H7.7)
+Add component (AddParameter): Name = "Значение"; Value = "330?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Aluminium capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "14x10x5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "860080475013"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 3296W)
+Add component (AddParameter): Name = "Значение"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Resistor film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "3296W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "3296W-1-103LF"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Step_Driver Member=Component C?
+Added Member To Class: ClassName=Step_Driver Member=Component R? Резистор подстроечный

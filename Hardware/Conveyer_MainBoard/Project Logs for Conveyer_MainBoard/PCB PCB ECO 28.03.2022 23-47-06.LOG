@@ -1,0 +1,58 @@
+Change Component Designator: OldDesignator=C7 NewDesignator=C10
+Change Component Designator: OldDesignator=C8 NewDesignator=C11
+Change Component Designator: OldDesignator=C9 NewDesignator=C12
+Added Component: Designator=C7(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR71H104KA01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Керамический конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1 мкФ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Керамический конденсатор, 0.1 мкФ, X7R, ±10%, 16V, 0805, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR71H104KA01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Керамический конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Керамический конденсатор, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR71H104KA01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Керамический конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Керамический конденсатор, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+12V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+12V Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+12V Pin=C9-2
+Added Member To Class: ClassName=Sheet_1 Member=Component C2 Керамический конденсатор, 0.1?F, X7R, ±10%, 50V, 0805, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component C6 Керамический конденсатор, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component C8 Керамический конденсатор, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component C10 Керамический конденсатор, 0.1 мкФ, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component C11 Керамический конденсатор, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component C12 Керамический конденсатор, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component R1 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R2 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R3 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component X1 Клеммник, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_1 Member=Component X3 Клеммник, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_1 Member=Component X5 Terminal connector, 3pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_1 Member=Component X7 Клеммник, 2pin, 3.5mm, 300VAC, 10A

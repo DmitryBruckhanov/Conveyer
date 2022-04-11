@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetFU1_1 Pin=X1-1
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Member From Class: ClassName=Sheet_1 Member=X6
+Change Component Designator: OldDesignator=X2 NewDesignator=X1
+Change Component Designator: OldDesignator=X3 NewDesignator=X2
+Change Component Designator: OldDesignator=X4 NewDesignator=X3
+Change Component Designator: OldDesignator=X5 NewDesignator=X4
+Change Component Designator: OldDesignator=X6 NewDesignator=X5
+Change component parameters: Designator = "FU1" ("FU1"); Footprint = "FUSE: 1206"; UniqueID = "\EKNPSFGR" ("\EKNPSFGR")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=01110501Z"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxCurrent"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "0468001.NR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeFuse"; Value = "Предохранитель SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Предохранитель SMD, 250VAC, 1A, 1206, "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=X1-1

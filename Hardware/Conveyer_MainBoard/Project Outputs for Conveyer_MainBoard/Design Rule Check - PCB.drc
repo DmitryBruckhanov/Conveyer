@@ -1,0 +1,92 @@
+Protel Design System Design Rule Check
+PCB File : D:\Hobby\Разработка на заказ\АО НПО ПРЗ\Конвеер\Hardware\Conveyer_MainBoard\PCB.PcbDoc
+Date     : 06.04.2022
+Time     : 22:17:28
+
+WARNING: Zero hole size multi-layer pad(s) detected
+   Pad D1-9(15.854mm,28.386mm) on Multi-Layer on Net GND
+   Pad D3-PAD(40.775mm,24.2mm) on Multi-Layer on Net GND
+   Pad D4-PAD(57.25mm,24.25mm) on Multi-Layer on Net GND
+   Pad D5-PAD(73.75mm,24.25mm) on Multi-Layer on Net GND
+
+WARNING: Multilayer Pads with 0 size Hole found
+   Pad D1-9(15.854mm,28.386mm) on Multi-Layer
+   Pad D3-PAD(40.775mm,24.2mm) on Multi-Layer
+   Pad D4-PAD(57.25mm,24.25mm) on Multi-Layer
+   Pad D5-PAD(73.75mm,24.25mm) on Multi-Layer
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (OnLayer('Top Layer')),(All)
+   Violation between Clearance Constraint: (0.154mm < 0.254mm) Between Area Fill (38.361mm,25.954mm) (43mm,26mm) on Top Layer And Polygon Region (0 hole(s)) Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.254mm) Between Area Fill (71.336mm,26mm) (76.1mm,26.004mm) on Top Layer And Polygon Region (2 hole(s)) Top Layer 
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.127mm) (OnLayer('Bottom Layer')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D4-13(53.675mm,21.35mm) on Top Layer And Via (54.5mm,23.5mm) from Top Layer to Bottom Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad D5-13(70.175mm,21.35mm) on Top Layer And Via (71mm,24.5mm) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=2.54mm) (Preferred=0.381mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.076mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.3mm) (Max=6.3mm) (All)
+   Violation between Hole Size Constraint: (6.5mm > 6.3mm) Pad Free-12(4mm,5.25mm) on Multi-Layer Actual Slot Hole Width = 6.5mm
+   Violation between Hole Size Constraint: (6.5mm > 6.3mm) Pad Free-12(4mm,81.25mm) on Multi-Layer Actual Slot Hole Width = 6.5mm
+   Violation between Hole Size Constraint: (6.5mm > 6.3mm) Pad Free-12(88.5mm,5.25mm) on Multi-Layer Actual Slot Hole Width = 6.5mm
+   Violation between Hole Size Constraint: (6.5mm > 6.3mm) Pad Free-12(88.5mm,81.25mm) on Multi-Layer Actual Slot Hole Width = 6.5mm
+Rule Violations :4
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.1mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (0.073mm < 0.1mm) Between Pad C15-2(64mm,40mm) on Top Layer And Track (64mm,40.7mm)(64mm,41.2mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.073mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.071mm < 0.1mm) Between Pad J13-1(24.96mm,14.75mm) on Multi-Layer And Text "VOUT" (26mm,7.321mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.071mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.047mm < 0.1mm) Between Pad L1-1(24mm,30.659mm) on Top Layer And Track (20.952mm,32.056mm)(27.048mm,32.056mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.047mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.047mm < 0.1mm) Between Pad L1-2(24mm,26.341mm) on Top Layer And Track (20.952mm,24.944mm)(27.048mm,24.944mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.047mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.095mm < 0.1mm) Between Pad VD1-1(28.167mm,44.958mm) on Top Layer And Track (28.817mm,44.058mm)(28.817mm,45.858mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.095mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.095mm < 0.1mm) Between Pad VD1-2(24.892mm,44.958mm) on Top Layer And Track (24.242mm,44.058mm)(24.242mm,45.858mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.095mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.095mm < 0.1mm) Between Pad VD3-1(15.08mm,43.016mm) on Top Layer And Track (14.43mm,42.116mm)(14.43mm,43.916mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.095mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.095mm < 0.1mm) Between Pad VD3-2(18.355mm,43.016mm) on Top Layer And Track (19.005mm,42.116mm)(19.005mm,43.916mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.095mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.095mm < 0.1mm) Between Pad VD4-1(15.5mm,23.75mm) on Top Layer And Track (14.85mm,22.85mm)(14.85mm,24.65mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.095mm]
+   Violation between Silk To Solder Mask Clearance Constraint: (0.095mm < 0.1mm) Between Pad VD4-2(18.775mm,23.75mm) on Top Layer And Track (19.425mm,22.85mm)(19.425mm,24.65mm) on Top Overlay [Top Overlay] to [Top Solder] clearance [0.095mm]
+Rule Violations :10
+
+Processing Rule : Silk to Silk (Clearance=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+   Violation between Net Antennae: Via (16.5mm,27.386mm) from Top Layer to Bottom Layer 
+   Violation between Net Antennae: Via (16.5mm,29.386mm) from Top Layer to Bottom Layer 
+Rule Violations :2
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 20
+Waived Violations : 0
+Time Elapsed        : 00:00:02

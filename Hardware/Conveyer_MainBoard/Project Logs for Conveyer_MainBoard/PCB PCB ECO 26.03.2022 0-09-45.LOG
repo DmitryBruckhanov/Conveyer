@@ -1,0 +1,56 @@
+Change Component Footprint: Designator=X2 Old Footprint=CON: 15EDGVC-3.5-03 (or 691321100003) New Footprint=CON: 15EDGVC-3.5-02 (or 691321100002)
+Change Component Footprint: Designator=X3 Old Footprint=CON: 15EDGVC-3.5-03 (or 691321100003) New Footprint=CON: 15EDGVC-3.5-02 (or 691321100002)
+Change Component Comment : Designator=X2 Old Comment=Terminal connector, 3pin, 3.5mm, 300VAC, 10A New Comment=Клеммник, 2pin, 3.5mm, 300VAC, 10A
+Change Component Comment : Designator=X3 Old Comment=Terminal connector, 3pin, 3.5mm, 300VAC, 10A New Comment=Клеммник, 2pin, 3.5mm, 300VAC, 10A
+Change Component Designator: OldDesignator=X4 NewDesignator=X6
+Change Component Designator: OldDesignator=X5 NewDesignator=X7
+Change component parameters: Designator = "X2" ("X2"); Footprint = "CON: 15EDGVC-3.5-03 (or 691321100003)"; UniqueID = "\GDVBTROL" ("\GDVBTROL")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""Питание с DIN""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DEGSON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14-00A(H)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Клеммник"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Клеммник, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X3" ("X3"); Footprint = "CON: 15EDGVC-3.5-03 (or 691321100003)"; UniqueID = "\UATPGZJL" ("\UATPGZJL")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""Питание с DIN""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "DEGSON"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14-00A(H)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Клеммник"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Клеммник, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X4(CON: 15EDGVC-3.5-02 (or 691321100002))
+Add component (AddParameter): Name = "CommentText"; Value = ""Питание с DIN""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DEGSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14-00A(H)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Клеммник"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Клеммник, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=X5(CON: 15EDGVC-3.5-02 (or 691321100002))
+Add component (AddParameter): Name = "CommentText"; Value = ""Питание с DIN""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-02p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "DEGSON"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "2pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-02P-14-00A(H)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Клеммник"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Клеммник, 2pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet_1 Member=Component X1 Клеммник, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_1 Member=Component X2 Клеммник, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_1 Member=Component X4 Клеммник, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_1 Member=Component X5 Клеммник, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_1 Member=Component X6 Terminal connector, 3pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_1 Member=Component X7 Terminal connector, 3pin, 3.5mm, 300VAC, 10A

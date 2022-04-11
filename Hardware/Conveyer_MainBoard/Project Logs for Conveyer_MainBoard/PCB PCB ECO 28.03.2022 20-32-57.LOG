@@ -1,0 +1,209 @@
+Removed Pin From Net: NetName=+5V Pin=C1-1
+Removed Pin From Net: NetName=+5V Pin=C5-2
+Removed Pin From Net: NetName=+5V Pin=L1-1
+Removed Pin From Net: NetName=+5V Pin=R1-1
+Removed Pin From Net: NetName=GND Pin=X1-2
+Removed Member From Class: ClassName=Sheet_1 Member=U7
+Removed Member From Class: ClassName=Sheet_1 Member=U8
+Change Component Designator: OldDesignator=C1 NewDesignator=C5
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C5 NewDesignator=C6
+Change Component Designator: OldDesignator=C6 NewDesignator=C7
+Change Component Designator: OldDesignator=C7 NewDesignator=C8
+Change Component Designator: OldDesignator=C8 NewDesignator=C9
+Change Component Designator: OldDesignator=C9 NewDesignator=C3
+Change Component Designator: OldDesignator=R1 NewDesignator=R14
+Change Component Designator: OldDesignator=R2 NewDesignator=R15
+Change Component Designator: OldDesignator=R3 NewDesignator=R13
+Change Component Designator: OldDesignator=X1 NewDesignator=X7
+Change Component Designator: OldDesignator=X2 NewDesignator=X1
+Change Component Designator: OldDesignator=X3 NewDesignator=X2
+Change Component Designator: OldDesignator=X4 NewDesignator=X3
+Change Component Designator: OldDesignator=X5 NewDesignator=X4
+Change Component Designator: OldDesignator=X6 NewDesignator=X5
+Change Component Designator: OldDesignator=X7 NewDesignator=X6
+Change component parameters: Designator = "FU1" ("FU1"); Footprint = "FUSE: 1812"; UniqueID = "\EKNPSFGR" ("\EKNPSFGR")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=01110501Z"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxCurrent"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "0468001.NR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeFuse"; Value = "Предохранитель SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Предохранитель SMD, 250VAC, 1A, 1206, "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "3,3 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "3,3 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "3,3 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "3,3 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "3,3 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "3,3 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "10 кОм"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=+12V New Net Name=VCCIN
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC3_1
+Added Pin To Net: NetName=+12V Pin=C5-1
+Added Pin To Net: NetName=+12V Pin=C6-2
+Added Pin To Net: NetName=+12V Pin=L1-1
+Added Pin To Net: NetName=+12V Pin=R1-1
+Added Pin To Net: NetName=+12V Pin=R2-1
+Added Pin To Net: NetName=+12V Pin=R3-1
+Added Pin To Net: NetName=+12V Pin=R4-1
+Added Pin To Net: NetName=+12V Pin=R5-1
+Added Pin To Net: NetName=+12V Pin=R6-1
+Added Pin To Net: NetName=+12V Pin=R7-1
+Added Pin To Net: NetName=+12V Pin=R8-1
+Added Pin To Net: NetName=+12V Pin=R9-1
+Added Pin To Net: NetName=+12V Pin=R10-1
+Added Pin To Net: NetName=+12V Pin=R11-1
+Added Pin To Net: NetName=+12V Pin=R12-1
+Added Pin To Net: NetName=+12V Pin=R14-1
+Added Pin To Net: NetName=+12V Pin=X5-1
+Added Pin To Net: NetName=+12V Pin=X6-1
+Added Net: Name=+12V
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-3
+Added Pin To Net: NetName=NetR2_2 Pin=X1-1
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U2-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U2-3
+Added Pin To Net: NetName=NetR4_2 Pin=X2-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=U3-1
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=U3-3
+Added Pin To Net: NetName=NetR6_2 Pin=X3-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=U4-1
+Added Net: Name=NetR7_2
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U4-3
+Added Pin To Net: NetName=NetR8_2 Pin=X4-1
+Added Net: Name=NetR8_2
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=U5-1
+Added Net: Name=NetR9_2
+Added Pin To Net: NetName=NetR10_2 Pin=R10-2
+Added Pin To Net: NetName=NetR10_2 Pin=U5-3
+Added Pin To Net: NetName=NetR10_2 Pin=X5-2
+Added Net: Name=NetR10_2
+Added Pin To Net: NetName=NetR11_2 Pin=R11-2
+Added Pin To Net: NetName=NetR11_2 Pin=U6-1
+Added Net: Name=NetR11_2
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U6-3
+Added Pin To Net: NetName=NetR12_2 Pin=X6-2
+Added Net: Name=NetR12_2
+Added Member To Class: ClassName=Sheet_1 Member=Component C3 Керамический конденсатор, 220pF, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component C5 Конденсатор электролитический алюминиевый SMD, 100 мкФ, 25 В, ±20%, 54mOhm, 8x20mm, -55...+105°C
+Added Member To Class: ClassName=Sheet_1 Member=Component C7 Керамический конденсатор, 0.1 мкФ, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component C9 Керамический конденсатор, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component R4 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R5 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R6 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R7 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R8 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R9 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R10 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R11 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R12 Резистор SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R13 Резистор SMD, 4,7k, ±1%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component R14 Резистор SMD, 10k, ±1%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component R15 Резистор SMD, 3,3k, ±1%, 0805, 0.125W, -55...+125°C

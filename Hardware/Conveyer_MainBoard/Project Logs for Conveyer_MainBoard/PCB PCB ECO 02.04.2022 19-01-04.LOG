@@ -1,0 +1,41 @@
+Removed Member From Class: ClassName=Step_Driver Member=R13
+Removed Member From Class: ClassName=Step_Driver Member=R15
+Removed Member From Class: ClassName=Step_Driver Member=R17
+Removed Member From Class: ClassName=Step_Driver Member=R20
+Removed Member From Class: ClassName=Step_Driver Member=R22
+Removed Member From Class: ClassName=Step_Driver Member=R24
+Change Component Designator: OldDesignator=X6 NewDesignator=X7
+Change Component Designator: OldDesignator=X7 NewDesignator=X8
+Change Component Designator: OldDesignator=X8 NewDesignator=X9
+Change Component Designator: OldDesignator=X9 NewDesignator=X10
+Change Component Designator: OldDesignator=X10 NewDesignator=X11
+Change Component Designator: OldDesignator=X11 NewDesignator=X12
+Change Component Designator: OldDesignator=X12 NewDesignator=X13
+Added Component: Designator=X6(CON: 15EDGVC-3.5-03 (or 691321100003))
+Add component (AddParameter): Name = "CommentText"; Value = ""IN6""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-03p-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "3pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-03P-14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 3pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Step_Driver Member=Component R4 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R5 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R6 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R7 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R8 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R9 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R10 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R11 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R12 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R14 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R16 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R18 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R19 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R21 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component X3 Terminal connector, 6pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Step_Driver Member=Component X5 Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Input Member=Component X13 Connector, 8pin, 2.54mm, 500VAC, 3A

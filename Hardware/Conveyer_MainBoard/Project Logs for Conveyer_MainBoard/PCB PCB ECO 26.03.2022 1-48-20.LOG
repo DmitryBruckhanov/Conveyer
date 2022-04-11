@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=GND Pin=X1-1
+Removed Pin From Net: NetName=NetFU1_1 Pin=X1-2
+Change Component Footprint: Designator=FU1 Old Footprint=FUSE: 1812 New Footprint=FUSE: FC-001S
+Added Component: Designator=U1(4-SMD)
+Add component (AddParameter): Name = "ComponentType"; Value = "IC optoisolator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataRate"; Value = "4탎/3탎"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTV-817S/160-1367-5-ND/385837"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation"; Value = "5000Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LTV-817S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+125캜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD"; VariantName = "[No Variations]"
+Added Component: Designator=U2(4-SMD)
+Add component (AddParameter): Name = "ComponentType"; Value = "IC optoisolator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataRate"; Value = "4탎/3탎"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTV-817S/160-1367-5-ND/385837"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation"; Value = "5000Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LTV-817S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+125캜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD"; VariantName = "[No Variations]"
+Added Component: Designator=U3(4-SMD)
+Add component (AddParameter): Name = "ComponentType"; Value = "IC optoisolator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataRate"; Value = "4탎/3탎"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTV-817S/160-1367-5-ND/385837"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation"; Value = "5000Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LTV-817S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+125캜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD"; VariantName = "[No Variations]"
+Added Component: Designator=U4(4-SMD)
+Add component (AddParameter): Name = "ComponentType"; Value = "IC optoisolator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataRate"; Value = "4탎/3탎"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTV-817S/160-1367-5-ND/385837"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation"; Value = "5000Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LTV-817S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+125캜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD"; VariantName = "[No Variations]"
+Added Component: Designator=U5(4-SMD)
+Add component (AddParameter): Name = "ComponentType"; Value = "IC optoisolator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataRate"; Value = "4탎/3탎"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTV-817S/160-1367-5-ND/385837"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation"; Value = "5000Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LTV-817S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+125캜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD"; VariantName = "[No Variations]"
+Added Component: Designator=U6(4-SMD)
+Add component (AddParameter): Name = "ComponentType"; Value = "IC optoisolator"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DataRate"; Value = "4탎/3탎"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/lite-on-inc/LTV-817S/160-1367-5-ND/385837"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Isolation"; Value = "5000Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Lite-On"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "4-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LTV-817S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply"; Value = "35V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-40...+125캜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetFU1_1 Pin=X1-1
+Added Pin To Net: NetName=GND Pin=X1-2
+Added Pin To Net: NetName=GND Pin=X2-2
+Added Pin To Net: NetName=GND Pin=X3-2
+Added Pin To Net: NetName=GND Pin=X4-2
+Added Pin To Net: NetName=GND Pin=X5-2
+Added Pin To Net: NetName=GND Pin=X6-3
+Added Pin To Net: NetName=GND Pin=X7-3
+Added Member To Class: ClassName=Sheet_1 Member=Component U1 IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component U2 IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component U3 IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component U4 IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component U5 IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component U6 IC optoisolator, 4탎/3탎, 5000Vrms, 35V, -40...+125캜, 4-SMD

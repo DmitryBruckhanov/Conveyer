@@ -1,0 +1,166 @@
+Removed Member From Class: ClassName=Input Member=C30
+Removed Member From Class: ClassName=Input Member=C31
+Change Component Designator: OldDesignator=C32 NewDesignator=C33
+Change Component Designator: OldDesignator=C33 NewDesignator=C34
+Change Component Designator: OldDesignator=C34 NewDesignator=C35
+Change Component Designator: OldDesignator=C35 NewDesignator=C36
+Change Component Designator: OldDesignator=C36 NewDesignator=C37
+Change Component Designator: OldDesignator=R37 NewDesignator=R40
+Change Component Designator: OldDesignator=R38 NewDesignator=R41
+Change Component Designator: OldDesignator=R39 NewDesignator=R42
+Change Component Designator: OldDesignator=R40 NewDesignator=R43
+Change Component Designator: OldDesignator=R41 NewDesignator=R44
+Change Component Designator: OldDesignator=R42 NewDesignator=R45
+Change Component Designator: OldDesignator=X6 NewDesignator=X12
+Change Component Designator: OldDesignator=X7 NewDesignator=X6
+Change Component Designator: OldDesignator=X8 NewDesignator=X7
+Change Component Designator: OldDesignator=X9 NewDesignator=X8
+Change Component Designator: OldDesignator=X10 NewDesignator=X9
+Change Component Designator: OldDesignator=X11 NewDesignator=X10
+Change Component Designator: OldDesignator=X12 NewDesignator=X11
+Change component parameters: Designator = "FU1" ("FU1"); Footprint = "FUSE: 1812"; UniqueID = "\EKNPSFGR" ("\EKNPSFGR")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=01110501Z"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxCurrent"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "0468001.NR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeFuse"; Value = "Предохранитель SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Предохранитель SMD, 250VAC, 1A, 1206, "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "24-TSSOP-PAD"; UniqueID = "\PREDWMZJ" ("\PREDWMZJ")
+Change component parameters (AddParameter): Name = "Производитель"; Value = "UMW(Youtai Semiconductor Co., Ltd.)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТипКомпонента"; Value = "Battery Charger "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Типоразмер"; Value = "SOIC 8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "УникальныйНомер"; Value = "A4982"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "24-TSSOP-PAD"; UniqueID = "\YGWOPWYO" ("\YGWOPWYO")
+Change component parameters (AddParameter): Name = "Производитель"; Value = "UMW(Youtai Semiconductor Co., Ltd.)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТипКомпонента"; Value = "Battery Charger "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Типоразмер"; Value = "SOIC 8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "УникальныйНомер"; Value = "A4982"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "24-TSSOP-PAD"; UniqueID = "\SZPIMGNL" ("\SZPIMGNL")
+Change component parameters (AddParameter): Name = "Производитель"; Value = "UMW(Youtai Semiconductor Co., Ltd.)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ТипКомпонента"; Value = "Battery Charger "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Типоразмер"; Value = "SOIC 8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "УникальныйНомер"; Value = "A4982"; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAP: 0805)
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/yageo/CC0805KRX7R7BB104/311-1142-1-ND/303052"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "GRM21BR71H104KA01L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeCapacitor"; Value = "Керамический конденсатор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Керамический конденсатор, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Added Component: Designator=J13(CON: PLS-3)
+Add component (AddParameter): Name = "CommentText"; Value = ""Перемычка""; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=VD5(DIODE: SOD80)
+Add component (AddParameter): Name = "Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/micro-commercial-co/1N4148WX-TP/1N4148WXTPMSCT-ND/717312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LL4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Single diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=VD6(DIODE: SOD80)
+Add component (AddParameter): Name = "Current"; Value = "150mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/micro-commercial-co/1N4148WX-TP/1N4148WXTPMSCT-ND/717312"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOD-323"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LL4148"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RecoveryTime"; Value = "4ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeDiode"; Value = "Single diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "75V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=+12V Pin=J13-1
+Added Pin To Net: NetName=+5V Pin=J13-3
+Added Pin To Net: NetName=GND Pin=R38-1
+Added Pin To Net: NetName=+5V Pin=VD5-2
+Added Pin To Net: NetName=GND Pin=VD6-1
+Added Pin To Net: NetName=GND Pin=X12-3
+Change Net Name : Old Net Name=NetR37_1 New Net Name=NetR40_1
+Change Net Name : Old Net Name=NetR38_1 New Net Name=NetR41_1
+Change Net Name : Old Net Name=NetR39_1 New Net Name=NetR42_1
+Change Net Name : Old Net Name=NetR40_1 New Net Name=NetR43_1
+Change Net Name : Old Net Name=NetR41_1 New Net Name=NetR44_1
+Change Net Name : Old Net Name=NetR42_1 New Net Name=NetR45_1
+Added Pin To Net: NetName=NetC32_2 Pin=C32-2
+Added Pin To Net: NetName=NetC32_2 Pin=R37-2
+Added Pin To Net: NetName=NetC32_2 Pin=R38-2
+Added Pin To Net: NetName=NetC32_2 Pin=R39-1
+Added Net: Name=NetC32_2
+Added Pin To Net: NetName=NetJ13_2 Pin=J13-2
+Added Pin To Net: NetName=NetJ13_2 Pin=X12-1
+Added Net: Name=NetJ13_2
+Added Pin To Net: NetName=NetR37_1 Pin=R37-1
+Added Pin To Net: NetName=NetR37_1 Pin=X12-2
+Added Net: Name=NetR37_1
+Added Pin To Net: NetName=NetR39_2 Pin=R39-2
+Added Pin To Net: NetName=NetR39_2 Pin=VD5-1
+Added Pin To Net: NetName=NetR39_2 Pin=VD6-2
+Added Pin To Net: NetName=NetR39_2 Pin=X13-8
+Added Net: Name=NetR39_2
+Added Member To Class: ClassName=Step_Driver Member=Component C14 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C15 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C16 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C21 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C24 Керамический SMD
+Added Member To Class: ClassName=Input Member=Component C32 Керамический конденсатор, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Input Member=Component C33 Керамический конденсатор, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Input Member=Component C37 Керамический конденсатор, 0.1?F, X7R, ±10%, 16V, 0805, -55...+125°C
+Added Member To Class: ClassName=Step_Driver Member=Component D3 A4982
+Added Member To Class: ClassName=Step_Driver Member=Component J3
+Added Member To Class: ClassName=Step_Driver Member=Component J4
+Added Member To Class: ClassName=Step_Driver Member=Component J5
+Added Member To Class: ClassName=Step_Driver Member=Component J6
+Added Member To Class: ClassName=Step_Driver Member=Component J8
+Added Member To Class: ClassName=Step_Driver Member=Component J9
+Added Member To Class: ClassName=Step_Driver Member=Component J10
+Added Member To Class: ClassName=Input Member=Component J13
+Added Member To Class: ClassName=Step_Driver Member=Component R5 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R6 Резистор подстроечный
+Added Member To Class: ClassName=Step_Driver Member=Component R10 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R13 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R16 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R17 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R43 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R44 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R45 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component VD5 Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C
+Added Member To Class: ClassName=Input Member=Component VD6 Single diode, 75V, 150mA, 1V, 4ns, SOD-323, -55...+150°C

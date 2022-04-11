@@ -1,0 +1,57 @@
+Removed Pin From Net: NetName=NetD3_18 Pin=X3-1
+Removed Pin From Net: NetName=NetD3_15 Pin=X3-2
+Removed Pin From Net: NetName=NetD4_18 Pin=X4-1
+Removed Pin From Net: NetName=NetD4_15 Pin=X4-2
+Removed Pin From Net: NetName=NetD5_18 Pin=X5-1
+Removed Pin From Net: NetName=NetD5_15 Pin=X5-2
+Removed Member From Class: ClassName=Step_Driver Member=R26
+Removed Member From Class: ClassName=Step_Driver Member=R28
+Removed Member From Class: ClassName=Step_Driver Member=R29
+Removed Member From Class: ClassName=Step_Driver Member=R30
+Removed Member From Class: ClassName=Step_Driver Member=R31
+Removed Member From Class: ClassName=Step_Driver Member=R32
+Removed Member From Class: ClassName=Step_Driver Member=R33
+Removed Member From Class: ClassName=Step_Driver Member=R34
+Removed Member From Class: ClassName=Step_Driver Member=R35
+Removed Member From Class: ClassName=Step_Driver Member=R36
+Removed Member From Class: ClassName=Step_Driver Member=R37
+Removed Member From Class: ClassName=Step_Driver Member=R38
+Removed Member From Class: ClassName=Step_Driver Member=R39
+Removed Member From Class: ClassName=Step_Driver Member=R40
+Removed Member From Class: ClassName=Step_Driver Member=R42
+Added Pin To Net: NetName=NetD3_15 Pin=X3-1
+Added Pin To Net: NetName=NetD3_18 Pin=X3-2
+Added Pin To Net: NetName=NetD4_15 Pin=X4-1
+Added Pin To Net: NetName=NetD4_18 Pin=X4-2
+Added Pin To Net: NetName=NetD5_15 Pin=X5-1
+Added Pin To Net: NetName=NetD5_18 Pin=X5-2
+Added Member To Class: ClassName=Step_Driver Member=Component C16 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C18 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C19 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C20 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component J1
+Added Member To Class: ClassName=Step_Driver Member=Component J2
+Added Member To Class: ClassName=Step_Driver Member=Component J3
+Added Member To Class: ClassName=Step_Driver Member=Component R5 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R6 Резистор подстроечный
+Added Member To Class: ClassName=Step_Driver Member=Component R7 Резистор подстроечный
+Added Member To Class: ClassName=Step_Driver Member=Component R8 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R9 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R10 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R11 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R13 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R15 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R16 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R17 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R18 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R19 Резистор подстроечный
+Added Member To Class: ClassName=Step_Driver Member=Component R20 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R21 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R22 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R23 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R24 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R25 Резистор SMD
+Added Member To Class: ClassName=Input Member=Component R27 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component X2 Connector, 8pin, 2.54mm, 500VAC, 3A
+Added Member To Class: ClassName=Step_Driver Member=Component X3 Terminal connector, 6pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Step_Driver Member=Component X5 Terminal connector, 6pin, 3.5mm, 300VAC, 10A

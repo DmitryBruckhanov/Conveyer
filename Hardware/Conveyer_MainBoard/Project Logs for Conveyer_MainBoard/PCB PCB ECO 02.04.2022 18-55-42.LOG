@@ -1,0 +1,223 @@
+Removed Pin From Net: NetName=NetR7_2 Pin=R7-2
+Removed Pin From Net: NetName=NetR11_2 Pin=R11-2
+Removed Pin From Net: NetName=NetR7_2 Pin=U2-3
+Removed Pin From Net: NetName=NetR11_2 Pin=U4-3
+Removed Pin From Net: NetName=NetR7_2 Pin=X7-1
+Removed Pin From Net: NetName=GND Pin=X7-2
+Removed Pin From Net: NetName=NetR9_2 Pin=X8-1
+Removed Pin From Net: NetName=GND Pin=X8-2
+Removed Pin From Net: NetName=NetR11_2 Pin=X9-1
+Removed Pin From Net: NetName=GND Pin=X9-2
+Change Component Footprint: Designator=X7 Old Footprint=CON: 15EDGVC-3.5-02 (or 691321100002) New Footprint=CON: 15EDGVC-3.5-03 (or 691321100003)
+Change Component Footprint: Designator=X8 Old Footprint=CON: 15EDGVC-3.5-02 (or 691321100002) New Footprint=CON: 15EDGVC-3.5-03 (or 691321100003)
+Change Component Footprint: Designator=X9 Old Footprint=CON: 15EDGVC-3.5-02 (or 691321100002) New Footprint=CON: 15EDGVC-3.5-03 (or 691321100003)
+Change Component Comment : Designator=X7 Old Comment=Клеммник, 2pin, 3.5mm, 300VAC, 10A New Comment=Terminal connector, 3pin, 3.5mm, 300VAC, 10A
+Change Component Comment : Designator=X8 Old Comment=Клеммник, 2pin, 3.5mm, 300VAC, 10A New Comment=Terminal connector, 3pin, 3.5mm, 300VAC, 10A
+Change Component Comment : Designator=X9 Old Comment=Клеммник, 2pin, 3.5mm, 300VAC, 10A New Comment=Terminal connector, 3pin, 3.5mm, 300VAC, 10A
+Change Component Designator: OldDesignator=R4 NewDesignator=R10
+Change Component Designator: OldDesignator=R5 NewDesignator=R11
+Change Component Designator: OldDesignator=R6 NewDesignator=R12
+Change Component Designator: OldDesignator=R7 NewDesignator=R13
+Change Component Designator: OldDesignator=R8 NewDesignator=R14
+Change Component Designator: OldDesignator=R9 NewDesignator=R15
+Change Component Designator: OldDesignator=R10 NewDesignator=R16
+Change Component Designator: OldDesignator=R11 NewDesignator=R17
+Change Component Designator: OldDesignator=R12 NewDesignator=R18
+Change Component Designator: OldDesignator=R13 NewDesignator=R19
+Change Component Designator: OldDesignator=R14 NewDesignator=R20
+Change Component Designator: OldDesignator=R15 NewDesignator=R21
+Change Component Designator: OldDesignator=R16 NewDesignator=R22
+Change Component Designator: OldDesignator=R17 NewDesignator=R23
+Change Component Designator: OldDesignator=R18 NewDesignator=R24
+Change Component Designator: OldDesignator=R19 NewDesignator=R25
+Change Component Designator: OldDesignator=R20 NewDesignator=R26
+Change Component Designator: OldDesignator=R21 NewDesignator=R27
+Change Component Designator: OldDesignator=X2 NewDesignator=X5
+Change Component Designator: OldDesignator=X3 NewDesignator=X2
+Change Component Designator: OldDesignator=X4 NewDesignator=X3
+Change Component Designator: OldDesignator=X5 NewDesignator=X4
+Change component parameters: Designator = "FU1" ("FU1"); Footprint = "FUSE: 1812"; UniqueID = "\EKNPSFGR" ("\EKNPSFGR")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=01110501Z"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxCurrent"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "0468001.NR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeFuse"; Value = "Предохранитель SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Предохранитель SMD, 250VAC, 1A, 1206, "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X7" ("X7"); Footprint = "CON: 15EDGVC-3.5-02 (or 691321100002)"; UniqueID = "\VGMHVKNN" ("\VGMHVKNN")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""IN5""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-03p-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "3pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-03P-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 3pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X8" ("X8"); Footprint = "CON: 15EDGVC-3.5-02 (or 691321100002)"; UniqueID = "\USLLYSFA" ("\USLLYSFA")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""IN5""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-03p-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "3pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-03P-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 3pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Change component parameters: Designator = "X9" ("X9"); Footprint = "CON: 15EDGVC-3.5-02 (or 691321100002)"; UniqueID = "\CVSBNBTK" ("\CVSBNBTK")
+Change component parameters (AddParameter): Name = "CommentText"; Value = ""IN5""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CurrentMax"; Value = "10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.chipdip.ru/product/dg350-3.5-03p-12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Degson"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Multichannel"; Value = "3pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "DG350-3.5-03P-14"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeConnector"; Value = "Terminal connector"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Terminal connector, 3pin, 3.5mm, 300VAC, 10A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "300VAC"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "0.22?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипДиэлектрика"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипДиэлектрика"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипДиэлектрика"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипДиэлектрика"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипДиэлектрика"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Added Component: Designator=J4(CON: JUMPER x2)
+Add component (AddParameter): Name = "CommentText"; Value = ""Перемычка""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "4k7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "20k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES: 2010)
+Add component (AddParameter): Name = "Значение"; Value = "R100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES: 2010)
+Add component (AddParameter): Name = "Значение"; Value = "R100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR11_2 Pin=R13-2
+Added Pin To Net: NetName=NetR7_2 Pin=R17-2
+Added Pin To Net: NetName=NetR11_2 Pin=U2-3
+Added Pin To Net: NetName=NetR7_2 Pin=U4-3
+Added Pin To Net: NetName=+12V Pin=X7-1
+Added Pin To Net: NetName=NetR11_2 Pin=X7-2
+Added Pin To Net: NetName=GND Pin=X7-3
+Added Pin To Net: NetName=+12V Pin=X8-1
+Added Pin To Net: NetName=NetR9_2 Pin=X8-2
+Added Pin To Net: NetName=GND Pin=X8-3
+Added Pin To Net: NetName=+12V Pin=X9-1
+Added Pin To Net: NetName=NetR7_2 Pin=X9-2
+Added Pin To Net: NetName=GND Pin=X9-3
+Change Net Name : Old Net Name=NetR4_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetR5_2 New Net Name=NetR11_2
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR12_2
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR17_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR14_2
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR15_2
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR16_2
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR13_2
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR18_2
+Change Net Name : Old Net Name=NetR13_2 New Net Name=NetR19_2
+Change Net Name : Old Net Name=NetR14_2 New Net Name=NetR20_2
+Change Net Name : Old Net Name=NetR15_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR16_1 New Net Name=NetR22_1
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR23_1
+Change Net Name : Old Net Name=NetR18_1 New Net Name=NetR24_1
+Change Net Name : Old Net Name=NetR19_1 New Net Name=NetR25_1
+Change Net Name : Old Net Name=NetR20_1 New Net Name=NetR26_1
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR27_1
+Added Member To Class: ClassName=Step_Driver Member=Component C16 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C17 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C18 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C19 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C20 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component J4
+Added Member To Class: ClassName=Step_Driver Member=Component R4 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R5 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R6 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R7 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R8 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R9 Резистор SMD

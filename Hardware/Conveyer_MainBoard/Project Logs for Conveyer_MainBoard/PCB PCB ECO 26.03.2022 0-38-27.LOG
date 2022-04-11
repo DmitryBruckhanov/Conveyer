@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=FU1 Old Footprint=FUSE: 1206 New Footprint=FUSE: 1812
+Added Member To Class: ClassName=Sheet_1 Member=Component X4 Клеммник, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_1 Member=Component X5 Клеммник, 2pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_1 Member=Component X6 Terminal connector, 3pin, 3.5mm, 300VAC, 10A
+Added Member To Class: ClassName=Sheet_1 Member=Component X7 Terminal connector, 3pin, 3.5mm, 300VAC, 10A

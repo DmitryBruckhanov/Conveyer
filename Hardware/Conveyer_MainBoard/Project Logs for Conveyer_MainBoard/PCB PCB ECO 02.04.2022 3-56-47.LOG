@@ -1,0 +1,121 @@
+Change component parameters: Designator = "FU1" ("FU1"); Footprint = "FUSE: 1812"; UniqueID = "\EKNPSFGR" ("\EKNPSFGR")
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/products/en?keywords=01110501Z"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Littelfuse"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MaxCurrent"; Value = "1A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "0468001.NR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeFuse"; Value = "Предохранитель SMD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Предохранитель SMD, 250VAC, 1A, 1206, "; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "10?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипДиэлектрика"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипДиэлектрика"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипДиэлектрика"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "0.1?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипДиэлектрика"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "0.22?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "Yageo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипДиэлектрика"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Ceramic capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "CC0201KRX7R7BB103"; VariantName = "[No Variations]"
+Added Component: Designator=J?(CON: JUMPER x2)
+Add component (AddParameter): Name = "CommentText"; Value = ""Перемычка""; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 2010)
+Add component (AddParameter): Name = "Значение"; Value = "R100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "20k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "10k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "4k7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 2010)
+Add component (AddParameter): Name = "Значение"; Value = "R100"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES: 0805)
+Add component (AddParameter): Name = "Значение"; Value = "100k"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Резистор SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "0201"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "RC0201JR-07100RL"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Step_Driver Member=Component C? Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C? Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C? Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C? Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C? Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component J?
+Added Member To Class: ClassName=Step_Driver Member=Component R? Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R? Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R? Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R? Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R? Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R? Резистор SMD

@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=NetD3_14 Pin=X2-4
+Removed Pin From Net: NetName=NetD3_11 Pin=X2-5
+Added Component: Designator=J9(CON: JUMPER x1)
+Add component (AddParameter): Name = "CommentText"; Value = ""Перемычка""; VariantName = "[No Variations]"
+Added Component: Designator=J10(CON: JUMPER x1)
+Add component (AddParameter): Name = "CommentText"; Value = ""Перемычка""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_14 Pin=J9-1
+Added Pin To Net: NetName=NetD3_11 Pin=J10-1
+Added Pin To Net: NetName=NetJ9_2 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_2 Pin=X2-4
+Added Net: Name=NetJ9_2
+Added Pin To Net: NetName=NetJ10_2 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_2 Pin=X2-5
+Added Net: Name=NetJ10_2
+Added Member To Class: ClassName=Step_Driver Member=Component C19 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C21 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C23 Керамический SMD
+Added Member To Class: ClassName=Step_Driver Member=Component C26
+Added Member To Class: ClassName=Step_Driver Member=Component D3 A4982
+Added Member To Class: ClassName=Step_Driver Member=Component J4
+Added Member To Class: ClassName=Step_Driver Member=Component J5
+Added Member To Class: ClassName=Step_Driver Member=Component J9
+Added Member To Class: ClassName=Step_Driver Member=Component J10
+Added Member To Class: ClassName=Step_Driver Member=Component R5 Резистор подстроечный
+Added Member To Class: ClassName=Step_Driver Member=Component R6 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R9 Резистор подстроечный
+Added Member To Class: ClassName=Step_Driver Member=Component R10 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R13 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R15 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R16 Резистор SMD
+Added Member To Class: ClassName=Step_Driver Member=Component R17 Резистор SMD

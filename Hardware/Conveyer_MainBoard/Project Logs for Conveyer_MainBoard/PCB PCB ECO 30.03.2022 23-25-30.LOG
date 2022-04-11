@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=+12V Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Member From Class: ClassName=Sheet_1 Member=C10
+Change Component Footprint: Designator=VD1 Old Footprint=DIODE: SMA New Footprint=DIODE: SOD123
+Change Component Footprint: Designator=VD3 Old Footprint=DIODE: SMC New Footprint=DIODE: SOD123
+Change Component Footprint: Designator=VD2 Old Footprint=DIODE: SOD123 New Footprint=DIODE: SMC
+Change component parameters: Designator = "VD1" ("VD1"); Footprint = "DIODE: SMA"; UniqueID = "\GMWTCZIP" ("\GMWTCZIP")
+Change component parameters (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BORN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "1N5819"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDiode"; Value = "Диод Шоттки"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Диод Шоттки, 80V, 500mA, 1V, 15pF, SMA, -55...+150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VD3" ("VD3"); Footprint = "DIODE: SMC"; UniqueID = "\AMXWGXNW" ("\AMXWGXNW")
+Change component parameters (AddParameter): Name = "Current"; Value = "500mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "HelpURL"; Value = "https://www.digikey.com/product-detail/en/diodes-incorporated/MBR0580S1-7/MBR0580S1-7DICT-ND/5080371"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "BORN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SMA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "1N5819"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RecoveryTime"; Value = "15pF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature"; Value = "-55...+150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "TypeDiode"; Value = "Диод Шоттки"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Диод Шоттки, 80V, 500mA, 1V, 15pF, SMA, -55...+150°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "80V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "VoltageDrop"; Value = "1V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(CAP: TANTAL-D)
+Add component (AddParameter): Name = "Значение"; Value = "100?F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Напряжение"; Value = "16V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Производитель"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ссылка"; Value = "***"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ТипКомпонента"; Value = "Tantalum capacitor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Типоразмер"; Value = "Тип А (3216)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "УникальныйНомер"; Value = "F930J107KAAAJ6"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12V Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Member To Class: ClassName=Sheet_1 Member=Component C?
