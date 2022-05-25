@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=MISO Pin=X1-1
+Removed Pin From Net: NetName=+5V Pin=X1-2
+Removed Pin From Net: NetName=SCK Pin=X1-3
+Removed Pin From Net: NetName=MOSI Pin=X1-4
+Removed Pin From Net: NetName=RESET Pin=X1-5
+Removed Pin From Net: NetName=GND Pin=X1-6
+Removed Member From Class: ClassName=Sheet_1 Member=X1
+Added Component: Designator=X?(CON: PROG(PCB) ISP)
+Add component (AddParameter): Name = "CommentText"; Value = ""Разъем""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CurrentMax"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "https://ru.aliexpress.com/item/1719644716.html?spm=a2g0v.search0104.3.23.4d9c1bc6xlIt6Q&ws_ab_test=searchweb0_0%2Csearchweb201602_10_10065_10068_319_317_10696_453_10084_454_10083_10618_10307_10301_537_536_10059_10884_10887_321_322_10915_10103_10914_10911_10910%2Csearchweb201603_52%2CppcSwitch_0&algo_expid=18a75006-9775-490c-9b34-8e5eba9edd8d-3&algo_pvid=18a75006-9775-490c-9b34-8e5eba9edd8d&transAbTest=ae803_5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Connfly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Multichannel"; Value = "6pin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "IDC-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TypeConnector"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ValueManufacturerPartNumber"; Value = "Connector, 6pin, 2.54mm, 250VAC, 3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VoltageMax"; Value = "250VAC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=X?-1
+Added Pin To Net: NetName=RESET Pin=X?-2
+Added Pin To Net: NetName=SCK Pin=X?-3
+Added Pin To Net: NetName=MOSI Pin=X?-4
+Added Pin To Net: NetName=MISO Pin=X?-5
+Added Pin To Net: NetName=GND Pin=X?-6
+Added Pin To Net: NetName=GND Pin=X?-7
+Added Pin To Net: NetName=GND Pin=X?-8
+Added Pin To Net: NetName=GND Pin=X?-9
+Added Pin To Net: NetName=GND Pin=X?-10
+Added Member To Class: ClassName=Sheet_1 Member=Component C5
+Added Member To Class: ClassName=Sheet_1 Member=Component C6
+Added Member To Class: ClassName=Sheet_1 Member=Component C8 Керамический SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component C10 Керамический SMD
+Added Member To Class: ClassName=Sheet_1 Member=Component R11 Резистор SMD, 1K, ±1%, 0805, 0.125W, -55...+125°C
+Added Member To Class: ClassName=Sheet_1 Member=Component VD7 LED, Green, *, *, *, -55...+150°C
+Added Member To Class: ClassName=Sheet_1 Member=Component VD9 "+5V"
+Added Member To Class: ClassName=Sheet_1 Member=Component X? Connector, 6pin, 2.54mm, 250VAC, 3A
